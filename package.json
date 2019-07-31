@@ -1,0 +1,25 @@
+{
+  "name": "starwars-express",
+  "version": "1.0.0",
+  "description": "tk test",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomK1429/test20190731.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThomK1429/test20190731/issues"
+  },
+  "homepage": "https://github.com/ThomK1429/test20190731#readme"
+}
